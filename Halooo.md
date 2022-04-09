@@ -1,5 +1,4 @@
-# SEMANGAT-
-Haii, gimana hari ini ??
+# SEMANGAT
 <html>
 <meta charset='UTF-8'/><meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/><meta content='IE=edge' http-equiv='X-UA-Compatible'/><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Shippori+Antique&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.19/dist/sweetalert2.all.min.js"></script><script src="https://kit.fontawesome.com/4f3ce16e3e.js" crossorigin="anonymous"></script><link href="https://semangat.likeadream.repl.co/style.css" rel="stylesheet" type="text/css" /><!--<script src="https://bbyyy.likeadream.repl.co/script.js"></script>-->
@@ -29,11 +28,11 @@ WhatsApp: 6282130626142
 <div id='subkonten'>
 <p data-text='&#9829;' class='catatan sek' onClick='expl();'>
 <marquee id="marq">
-Hai <b id="kamu"></b> manis~ <i id="spasi"></i>
+Hai <b id="kamu"></b> Teh Mit~ <i id="spasi"></i>
 Kamu lagi capek ya? &#129402;<i id="spasi"></i>
 Semangat! Yaaa  &#129321;<i id="spasi"></i>
-Semangat, Juga Puasanya  <i id="spasi"></i>
-Oh iya, klik icon LOVE di samping yaa &#128525;</marquee>
+Semangat, Juga Puasanya, <i id="spasi"></i>
+Oh iya, klik icon love di samping yaa &#128525;</marquee>
 </p>
 </div>
 
